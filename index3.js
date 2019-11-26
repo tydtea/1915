@@ -3,5 +3,5 @@ function fn(a) {
         return a+b;
     }
 }
-console.log(fn(1)(2));
+console.log(fn(10)(20));
 // 原型 原型
