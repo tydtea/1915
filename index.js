@@ -1,5 +1,5 @@
 const obj = {
-    age:12
+    age:121
 }
 function fn() {
     console.log(this.age);

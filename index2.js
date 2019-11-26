@@ -1,6 +1,6 @@
 class One {
     constructor(){
-        this.age = 13;
+        this.age = 131;
     }
     run(that){
         console.log(this === that,this.age);
