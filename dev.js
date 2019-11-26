@@ -1,1 +1,1 @@
-console.log("game over");
+console.log("其实有的");
